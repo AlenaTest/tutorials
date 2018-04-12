@@ -1,6 +1,6 @@
 ---
 title: code syntax 
-description: 1code code
+description: 1code code code
 tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
 primary_tag: tutorial:product/sapHana
 ---
