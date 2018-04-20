@@ -1,5 +1,5 @@
 ---
-title: gr1 autotests validation form update
+title: gr1 autotests validation form tutorial2
 description:autotests description
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
