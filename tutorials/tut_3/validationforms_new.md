@@ -1,5 +1,5 @@
 ---
-title:gr2 autotests validation 
+title:gr2 autotests validation tutorial3
 description:autotests description
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
