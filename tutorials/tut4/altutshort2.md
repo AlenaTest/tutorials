@@ -1,5 +1,5 @@
 ---
-title: validation form one altut1
+title: altut2 short
 description:autotests description
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
