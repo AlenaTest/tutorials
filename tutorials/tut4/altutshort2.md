@@ -1,6 +1,6 @@
 ---
 title: altut2 short
-description:autotests description
+description:autotests description answer 2
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 qrcode: true
