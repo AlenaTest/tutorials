@@ -3,7 +3,6 @@ title: autotests validation form tut1
 description:autotests description
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
-qrcode: true
 ---
 
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
